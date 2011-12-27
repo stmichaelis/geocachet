@@ -31,6 +31,10 @@ The box provides an ideal gift or the basis for a romantic journey
 through the history of the relationship with your better half. And
 making your own is fun all along the way.
 
+A more detailed description about the box and the software can be
+found as a series of public posts on Google+:
+https://plus.google.com/u/0/102666828932130321875/posts/75oH8Tb8gB9
+
 License
 ---------- 
 CC BY-NC-SA 3.0
